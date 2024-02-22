@@ -1,4 +1,4 @@
-# CIS410_Final_Project
+# Karting Game
 ## Name
 Be the No.1
 ## Group member
